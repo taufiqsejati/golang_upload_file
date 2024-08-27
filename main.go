@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/dannndi/golang_upload_file/core/utils"
-	"github.com/dannndi/golang_upload_file/module/file"
+	"github.com/taufiqsejati/golang_upload_file/blob/main/core/utils"
+	"github.com/taufiqsejati/golang_upload_file/blob/main/module/file"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/joho/godotenv"
