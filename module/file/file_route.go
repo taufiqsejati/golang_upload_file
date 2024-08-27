@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dannndi/go_upload_file/core/utils"
+	"github.com/dannndi/golang_upload_file/core/utils"
 	"github.com/gofiber/fiber/v2"
 )
 

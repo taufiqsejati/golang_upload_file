@@ -1,4 +1,4 @@
-module github.com/dannndi/go_upload_file
+module github.com/dannndi/golang_upload_file
 
 go 1.18
 
